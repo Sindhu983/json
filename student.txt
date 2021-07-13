@@ -1,0 +1,14 @@
+{
+    "details1": {
+        "name": "Anusha",
+        "state": "telangana",
+        "age": 23,
+        "marks": 96
+    },
+    "datails2": {
+        "name": "Anusha",
+        "state": "telangana",
+        "age": 23,
+        "marks": 96
+    }
+}

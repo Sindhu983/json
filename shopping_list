@@ -1,0 +1,8 @@
+{
+    "shopping_list": {
+        "chocolate": 5,
+        "ice_cream": 10,
+        "fruits": 20,
+        "buiscuits": 15
+    }
+}
